@@ -8,5 +8,4 @@ We welcome contributions to [coursera project]! Here’s a guide on how you can 
 
 2. **Create a Branch**: Create a new branch for your changes. This can be done using:
 
-   ```bash
-   git checkout -b your-branch-name
+  
